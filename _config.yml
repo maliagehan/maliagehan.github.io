@@ -1,7 +1,7 @@
 # Site settings
 title: Malia Gehan Github
 baseurl: ''
-# url: http://maliagehan.github.io/maliagehan
+# url: http://maliagehan.github.io/
 
 # Build settings
 markdown: redcarpet
@@ -10,4 +10,4 @@ highlighter: pygments
 # Jekyll-Bootstrap
 JB:
     version: 2.0.3
-    BASE_PATH : http://maliagehan.github.io/maliagehan
+    BASE_PATH : http://maliagehan.github.io/
